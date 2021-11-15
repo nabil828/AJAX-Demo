@@ -193,7 +193,7 @@ Based on [their API documentation](https://openweathermap.org/current#current_JS
 
   ---
   # Part III - JSON
-  The previous listing is just one JSON object that has pairs of keys and values. One of the keys is the `main` key which its value happens to be another JSON object that contains a `temp` key. This key represents the current temperature of a city along with other key  informations of other aspects of the city weather lie vivibiliym, wind, pressure, ..etc. We are only interested in extracting the temperature from the whole object.
+  The previous listing is just one JSON object that has pairs of keys and values. One of the keys is the `main` key which its value happens to be another JSON object that contains a `temp` key. This key represents the current temperature of a city along with other key  information of other aspects of the city weather like visibility, wind, pressure, ..etc. We are only interested in extracting the temperature from the whole object.
 
 
   Another modification we need to make is to set the city in the `url` field in the `.ajax()` function to embed a choosen city from the user's input and not to have it hard coded in the JS code.
