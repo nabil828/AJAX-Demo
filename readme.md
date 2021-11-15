@@ -87,7 +87,9 @@ Here is modified HTML code
   </body>
 </html>
 ```
+
 Here is how would displayed by the browser:
+
 ![screenshot](https://cdn.discordapp.com/attachments/899840196273639435/909613851073478687/unknown.png)
 
 Next, let us write a skeleton JS code to handle the click event on the button.
