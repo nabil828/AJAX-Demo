@@ -112,14 +112,14 @@ function setup(){
 $(document).ready(setup);
 
 ```
-Here is the `ready` function will call the `setup` function when the document is ready. The `setup` function will call the `ajax_get` function when the button is clicked by the user. Finally, the `ajax_get` function will make THE AJAX request.   
+Here is the `ready` event will be triggered when the browser finishes loading the web page and it will call the `setup` function as a result. The `setup` function will call the `ajax_get` function when the button is clicked by the user. Finally, the `ajax_get` function will make THE AJAX request.   
 
 Now, let us fill the `$.ajax()` function. First, Notice that this function takes one argument of type JSON object. The JSON object is a set of key-value pairs. Here is our object:
 ```JSON
 {
-  'url':'https://api.openweathermap.org/data/2.5/weather?q=Vancouver&appid=b660f3402c54cb9a9c48f89c35249e5c&unit=metric',
-  'type': 'GET',
-  'success': procces_
+  "url":"https://api.openweathermap.org/data/2.5/weather?q=Vancouver&appid=b660f3402c54cb9a9c48f89c35249e5c&unit=metric",
+  "type": "GET",
+  "success": procces_
 }
 ```
 The `url` key is the URL that we need to request the data from. The `type` key is the HTTP request's type. IT could be GET, POST, DELETE, or UPDATE. These requests correspond to the CRUD operations in Databases.
