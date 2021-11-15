@@ -4,6 +4,7 @@
 Here is a list of steps we are going through this demo:
 - [AJAX Demo](#ajax-demo)
 - [Definitions](#definitions)
+- [Why AJAX](#why-ajax)
 - [AJAX ✕ jQuery](#ajax---jquery)
 - [Part I - HTML](#part-i---html)
 - [Part II - JavaScript](#part-ii---javascript)
@@ -23,6 +24,17 @@ Here is a list of steps we are going through this demo:
 - jQuery: The most popular JavaScript Library. Provide functions to modify/retrieve HTML, Add effects to the page, and format AJAX request!
 - HTML: Stands for HyperText Markup Language and it controls the layout of the static elements on the web page.
 - API: Stands for Application Programming Interface. In this tutorial, we need an API to communicate with a web service to get the weather data for free!
+
+---
+# Why AJAX
+- There is a clear distinction between what is displayed on the page (content), appearance (style), and page functionality (feature).
+
+- Programmers who change what they need for a page don't have to worry about what the page looks like.
+
+- A pages created with Ajax load only small bits from the server. In most cases, you will run the code on the client. This will load the program first and allow it to react faster.
+
+- Ajax can be used specifically for reading XML or JSON.
+
 ---
 # AJAX ✕ jQuery
 AJAX is a technology that exchanges data with a server and updates parts of a website without reloading the entire page.
