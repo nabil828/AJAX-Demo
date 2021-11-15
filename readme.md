@@ -1,5 +1,6 @@
 # AJAX Demo
 ![desired ouput](https://cdn.discordapp.com/attachments/899840196273639435/909612813125828638/ezgif.com-gif-maker_1.gif)
+
 Here is a list of steps we are going through this demo:
 - [AJAX Demo](#ajax-demo)
 - [Definitions](#definitions)
