@@ -27,16 +27,12 @@ Here is a list of steps we are going through this demo:
 
 ---
 # Why AJAX
-- There is a clear distinction between what is displayed on the page (content), appearance (style), and page functionality (feature).
+Ajax's main purpose is to improve the speed, performance, and ease of use of web applications. By creating asynchronous calls to a server:
 
-- Programmers who change what they need for a page don't have to worry about what the page looks like.
+- Ajax eliminates the need for a client browser to wait for all the data to arrive before the user can interact with it again.
+- Also, pages created with Ajax load only small bits from the server increasing the usability of a the web page.
 
-- A pages created with Ajax load only small bits from the server. In most cases, you will run the code on the client. This will load the program first and allow it to react faster.
 
-- Ajax can be used specifically for reading XML or JSON.
-Create Asynchronous Calls: Ajax allows you to make asynchronous calls to your web server.
- This eliminates the need for the client browser to wait for all the data to arrive before  the user can interact with it again. ... Speed ​​Up:
-Ajax's main purpose  is to improve the speed, performance, and ease of use of web applications.
 ---
 # AJAX ⚔️ jQuery
 AJAX is a technology that exchanges data with a server and updates parts of a website without reloading the entire page.
