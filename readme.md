@@ -112,7 +112,7 @@ The `url` key is the URL that we need to request the data from. The `type` key i
 
 Anyhow, we need to focus only on the GET since we want to retrieve the weather of a specific city. The `success` field will take a function handle to process the return JSON object. It just happens that this API specfically returns a JSON obejct. Check their [docs](https://openweathermap.org/current#current_JSON)!
 
-Alright, let us plugin this JSON object as a parameter to the `$.ajax()` method:
+Alright, let us plug this JSON object as a parameter to the `$.ajax()` method:
 
 
 ```js
@@ -143,7 +143,7 @@ where `city_temperature` is the id of the placeholder for the returned temperatu
 
 Now if you have noticed `data.main.temp`, then you have just caught me red handed. Where did it come from? Here where we have to explain the structure of returned JSON object from *openweathermap.org* web service.
 
-Based on their API documentation, here is the format of the returned JSON object:
+Based on [their API documentation](https://openweathermap.org/current#current_JSON), here is the format of the returned JSON object:
 ```JSON
 {
   "coord": {
