@@ -38,7 +38,7 @@ Here is a list of steps we are going through this demo:
 ---
 # AJAX ✕ jQuery
 AJAX is a technology that exchanges data with a server and updates parts of a website without reloading the entire page.
-jQuery provides several methods for AJAX functionality. In this tutorial, we will demonstrate the `$.json()` function to perform an async AJAX request.
+jQuery provides several methods for AJAX functionality. In this tutorial, we will demonstrate the `$.json()` jQuery function to perform an async AJAX request.
 
 Let us start with this HTML skeleton code.
 
