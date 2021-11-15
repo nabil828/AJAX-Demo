@@ -5,7 +5,7 @@ Here is a list of steps we are going through this demo:
 - [AJAX Demo](#ajax-demo)
 - [Definitions](#definitions)
 - [Why AJAX](#why-ajax)
-- [AJAX ✕ jQuery](#ajax---jquery)
+- [AJAX ⚔️ jQuery](#ajax---jquery)
 - [Part I - HTML](#part-i---html)
 - [Part II - JavaScript](#part-ii---javascript)
 - [Part III - JSON](#part-iii---json)
@@ -35,7 +35,7 @@ Here is a list of steps we are going through this demo:
 
 - Ajax can be used specifically for reading XML or JSON.
 Create Asynchronous Calls: Ajax allows you to make asynchronous calls to your web server.
- This eliminates the need for the client browser to wait for all the data to arrive before  the user can interact with it again. ... Speed ​​Up: 
+ This eliminates the need for the client browser to wait for all the data to arrive before  the user can interact with it again. ... Speed ​​Up:
 Ajax's main purpose  is to improve the speed, performance, and ease of use of web applications.
 ---
 # AJAX ⚔️ jQuery
