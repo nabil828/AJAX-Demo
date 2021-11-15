@@ -227,7 +227,8 @@ Based on [their API documentation](https://openweathermap.org/current#current_JS
 Phew!
 
 The final output:
-  ![output](https://cdn.discordapp.com/attachments/899840196273639435/909612813125828638/ezgif.com-gif-maker_1.gif)
+
+![output](https://cdn.discordapp.com/attachments/899840196273639435/909612813125828638/ezgif.com-gif-maker_1.gif)
 
 
   ---
