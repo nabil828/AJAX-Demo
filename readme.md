@@ -34,7 +34,9 @@ Here is a list of steps we are going through this demo:
 - A pages created with Ajax load only small bits from the server. In most cases, you will run the code on the client. This will load the program first and allow it to react faster.
 
 - Ajax can be used specifically for reading XML or JSON.
-
+Create Asynchronous Calls: Ajax allows you to make asynchronous calls to your web server.
+ This eliminates the need for the client browser to wait for all the data to arrive before  the user can interact with it again. ... Speed ​​Up: 
+Ajax's main purpose  is to improve the speed, performance, and ease of use of web applications.
 ---
 # AJAX ⚔️ jQuery
 AJAX is a technology that exchanges data with a server and updates parts of a website without reloading the entire page.
