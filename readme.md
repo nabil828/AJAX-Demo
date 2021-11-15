@@ -1,16 +1,24 @@
 # AJAX Demo
 ![desired ouput](https://cdn.discordapp.com/attachments/899840196273639435/909612813125828638/ezgif.com-gif-maker_1.gif)
 Here is a list of steps we are going through this demo:
-- [ ] [Definitions](#Definitions)
-- [ ] [AJAX](#Setting-up-the-server)
-- [ ] [Server API](#Routing-in-Express)
-- [ ] [REST API - Round One](#REST-API---Round-One)
+- [AJAX Demo](#ajax-demo)
+- [Definitions](#definitions)
+- [AJAX ✕ jQuery](#ajax---jquery)
+- [Part I - HTML](#part-i---html)
+- [Part II - JavaScript](#part-ii---javascript)
+- [Part III - JSON](#part-iii---json)
+- [Debugging Tips](#debugging-tips)
+- [See also](#see-also)
+- [Check Your Understanding](#check-your-understanding)
 
 
 ---
 <!-- Check out the complete server code [here](./server/server.js) and client code [here](./client/). -->
 <!-- --- -->
 # Definitions
+- AJAX: Stands for Asynchronous JavaScript and XML. We will use jQuery instead of JavaScript and JSON instead of XML.
+- JSON: JSON is a way of representing data that corresponds to the syntax of JavaScript objects. It allows us to send/receive objects easily over the Internet.
+
 - jQuery: The most popular JavaScript Library. Provide functions to modify/retrieve HTML, Add effects to the page, and format AJAX request!
 - HTML: Stands for HyperText Markup Language and it controls the layout of the static elements on the web page.
 - API: Stands for Application Programming Interface. In this tutorial, we need an API to communicate with a web service to get the weather data for free!
