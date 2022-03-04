@@ -10,7 +10,7 @@ Here is a list of steps we are going through this demo:
 - [Part II - JavaScript](#part-ii---javascript)
 - [Part III - JSON](#part-iii---json)
 - [Debugging Tips](#debugging-tips)
-- [See also](#see-also)
+<!--- [See also](#see-also) -->
 - [Check Your Understanding](#check-your-understanding)
 
 
@@ -248,8 +248,8 @@ The final output:
 - Use chrome developer tools, `console.log()`, and `alert()` JS functions
 - Check the networking tab in the developer tools to see the outgoing requests.
 
-# See also
-- Check my other Demo on [MERN](https://github.com/nabil828/mern_demo) stack. It might help you to write a POST AJAX request to modify a database on the server side.
+<!-- # See also
+- Check my other Demo on [MERN](https://github.com/nabil828/mern_demo) stack. It might help you to write a POST AJAX request to modify a database on the server side. -->
 
 
 # Check Your Understanding
